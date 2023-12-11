@@ -6,6 +6,9 @@ sudo apt-get install git
 git config --global user.email "eyalbrilling@gmail.com"
 git config --global user.name "Eyal Brilling"
 
+# Vim
+sudo apt-get install vim
+
 # visual studio code
 
 sudo apt-get install wget gpg
